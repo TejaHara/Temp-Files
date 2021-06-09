@@ -1,3 +1,3 @@
 // Instructions to execute the program:
->javac X.java
->java X
+cmd>javac X.java
+cmd>java X
